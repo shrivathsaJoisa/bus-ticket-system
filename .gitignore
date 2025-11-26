@@ -1,0 +1,27 @@
+# Java / Spring Boot
+target/
+*.log
+
+# Node / React / React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+.expo-shared/
+
+# Build artifacts
+dist/
+build/
+*.apk
+*.aab
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
